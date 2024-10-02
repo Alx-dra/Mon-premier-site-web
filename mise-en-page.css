@@ -1,0 +1,26 @@
+h1{
+    color: rgb(224, 190, 97);
+    background-color: rgb(100, 66, 50); 
+    text-align: center;
+    font-family:cursive
+}
+
+img{
+width: 100%;
+}
+
+p{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#chapeau{
+    font-size: larger;
+}
+
+.brun{
+color: rgb(100, 66, 50);
+}
+
+.jaune{
+color: rgb(224, 190, 97);
+}
